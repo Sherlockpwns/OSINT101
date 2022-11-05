@@ -2,4 +2,4 @@
 OSINT
 
 
-This is to showcase write ups and Badges that i have collected  to submit for OSINTdojo rank up system 
+This is to showcase write ups and Badges that i have obtained  to submit for OSINTdojo rank up system. 
